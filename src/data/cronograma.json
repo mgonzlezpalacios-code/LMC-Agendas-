@@ -1,0 +1,197 @@
+{
+ "title": "Cronograma de actividades LMC — Myriam (M) y Kevin (K)",
+ "start": "2026-08-31",
+ "end": "2027-02-28",
+ "weeks": [
+  {
+   "n": 1,
+   "monday": "2026-08-31",
+   "holiday": null
+  },
+  {
+   "n": 2,
+   "monday": "2026-09-07",
+   "holiday": null
+  },
+  {
+   "n": 3,
+   "monday": "2026-09-14",
+   "holiday": null
+  },
+  {
+   "n": 4,
+   "monday": "2026-09-21",
+   "holiday": null
+  },
+  {
+   "n": 5,
+   "monday": "2026-09-28",
+   "holiday": null
+  },
+  {
+   "n": 6,
+   "monday": "2026-10-05",
+   "holiday": "9 oct"
+  },
+  {
+   "n": 7,
+   "monday": "2026-10-12",
+   "holiday": null
+  },
+  {
+   "n": 8,
+   "monday": "2026-10-19",
+   "holiday": null
+  },
+  {
+   "n": 9,
+   "monday": "2026-10-26",
+   "holiday": null
+  },
+  {
+   "n": 10,
+   "monday": "2026-11-02",
+   "holiday": "2–3 nov"
+  },
+  {
+   "n": 11,
+   "monday": "2026-11-09",
+   "holiday": null
+  },
+  {
+   "n": 12,
+   "monday": "2026-11-16",
+   "holiday": null
+  },
+  {
+   "n": 13,
+   "monday": "2026-11-23",
+   "holiday": null
+  },
+  {
+   "n": 14,
+   "monday": "2026-11-30",
+   "holiday": null
+  },
+  {
+   "n": 15,
+   "monday": "2026-12-07",
+   "holiday": null
+  },
+  {
+   "n": 16,
+   "monday": "2026-12-14",
+   "holiday": null
+  },
+  {
+   "n": 17,
+   "monday": "2026-12-21",
+   "holiday": "25 dic"
+  },
+  {
+   "n": 18,
+   "monday": "2026-12-28",
+   "holiday": "1 ene"
+  },
+  {
+   "n": 19,
+   "monday": "2027-01-04",
+   "holiday": null
+  },
+  {
+   "n": 20,
+   "monday": "2027-01-11",
+   "holiday": null
+  },
+  {
+   "n": 21,
+   "monday": "2027-01-18",
+   "holiday": null
+  },
+  {
+   "n": 22,
+   "monday": "2027-01-25",
+   "holiday": null
+  },
+  {
+   "n": 23,
+   "monday": "2027-02-01",
+   "holiday": null
+  },
+  {
+   "n": 24,
+   "monday": "2027-02-08",
+   "holiday": "Carnaval 8–9 feb"
+  },
+  {
+   "n": 25,
+   "monday": "2027-02-15",
+   "holiday": null
+  },
+  {
+   "n": 26,
+   "monday": "2027-02-22",
+   "holiday": null
+  }
+ ],
+ "activities": [
+  {"no":1,"section":"Mantenimiento","equipment":"Horno tubular","activity":"Mantenimiento bomba de vacío","frequency":"—","everyN":13,"startWeek":1,"lead":"M/K","mode":"Conjunto","product":"Registro","note":"Bomba: en conjunto. Supuesto: trimestral (sin frecuencia en el original)","grid":["M/K","","","","","","","","","","","","","M/K","","","","","","","","","","","",""]},
+  {"no":2,"section":"Mantenimiento","equipment":"Filtración al vacío","activity":"Mantenimiento bomba de vacío","frequency":"—","everyN":13,"startWeek":6,"lead":"M/K","mode":"Conjunto","product":"Registro","note":"Bomba: en conjunto. Supuesto: trimestral","grid":["","","","","","M/K","","","","","","","","","","","","","M/K","","","","","","",""]},
+  {"no":3,"section":"Mantenimiento","equipment":"Filtración al vacío","activity":"Limpieza","frequency":"—","everyN":4,"startWeek":2,"lead":"M","mode":"Alterna","product":null,"note":"Supuesto: mensual","grid":["","M","","","","K","","","","M","","","","K","","","","M","","","","K","","","","M"]},
+  {"no":4,"section":"Mantenimiento","equipment":"Balanza de cuarzo","activity":"Limpieza / verificación","frequency":"—","everyN":4,"startWeek":2,"lead":"M","mode":"Alterna","product":null,"note":"Supuesto: actividad y frecuencia no definidas; mensual","grid":["","M","","","","K","","","","M","","","","K","","","","M","","","","K","","","","M"]},
+  {"no":5,"section":"Mantenimiento","equipment":"Electrodos de referencia","activity":"Cambiar solución KCl 3M","frequency":"Quincenal","everyN":2,"startWeek":2,"lead":"M","mode":"Alterna","product":"Registro","note":null,"grid":["","M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M"]},
+  {"no":6,"section":"Mantenimiento","equipment":"pH-metro","activity":"Calibración","frequency":"Bi-mensual","everyN":8,"startWeek":7,"lead":"M","mode":"Alterna","product":"Registro","note":"Interpretado como cada 2 meses (8 sem). Si es 2 veces/mes, poner 2","grid":["","","","","","","M","","","","","","","","K","","","","","","","","M","","",""]},
+  {"no":7,"section":"Mantenimiento","equipment":"pH-metro","activity":"Cambiar KCl 3M","frequency":"Quincenal","everyN":2,"startWeek":2,"lead":"K","mode":"Alterna","product":"Registro","note":"Sin responsable en el original","grid":["","K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K"]},
+  {"no":8,"section":"Mantenimiento","equipment":"Balanza","activity":"Limpieza","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K"]},
+  {"no":9,"section":"Mantenimiento","equipment":"Balanza","activity":"Verificación","frequency":"Bi-mensual","everyN":8,"startWeek":5,"lead":"M","mode":"Alterna","product":"Registro","note":"Interpretado como cada 2 meses (8 sem)","grid":["","","","","M","","","","","","","","K","","","","","","","","M","","","","",""]},
+  {"no":10,"section":"Mantenimiento","equipment":"Agua destilada","activity":"Limpieza","frequency":"Quincenal","everyN":2,"startWeek":1,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K",""]},
+  {"no":11,"section":"Mantenimiento","equipment":"Agua destilada","activity":"Destilación","frequency":"Quincenal","everyN":2,"startWeek":2,"lead":"M","mode":"Alterna","product":null,"note":"Sin responsable en el original","grid":["","M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M"]},
+  {"no":12,"section":"Mantenimiento","equipment":"Liofilizador","activity":"Limpieza","frequency":"Después de cada uso","everyN":1,"startWeek":1,"lead":"M/K","mode":"Conjunto","product":null,"note":"En conjunto. Supuesto: semanal (además de después de cada uso)","grid":["M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K","M/K"]},
+  {"no":13,"section":"Mantenimiento","equipment":"Liofilizador","activity":"Cambio aceite bomba","frequency":"Semestral","everyN":26,"startWeek":12,"lead":"M/K","mode":"Conjunto","product":"Registro","note":"Bomba: en conjunto. 1 vez en el periodo","grid":["","","","","","","","","","","","M/K","","","","","","","","","","","","","",""]},
+  {"no":14,"section":"Mantenimiento","equipment":"Molino de bolas","activity":"Arreglo","frequency":"Puntual","everyN":null,"startWeek":null,"lead":"Fernando","mode":"Puntual","product":null,"note":"Reparación a cargo de Fernando","grid":["","","","","","","","","","","","","","","","","","","","","","","","","",""]},
+  {"no":15,"section":"Mantenimiento","equipment":"Ultraturrax","activity":"Arreglo","frequency":"Puntual","everyN":null,"startWeek":null,"lead":"Por definir","mode":"Puntual","product":null,"note":"Reparación; responsable por definir","grid":["","","","","","","","","","","","","","","","","","","","","","","","","",""]},
+  {"no":16,"section":"Mantenimiento","equipment":"Centrífugas","activity":"Limpieza","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K"]},
+  {"no":17,"section":"Mantenimiento","equipment":"Baños ultrasónicos","activity":"Limpieza","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M"]},
+  {"no":18,"section":"Mantenimiento","equipment":"Pisetas","activity":"Rellenar","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K"]},
+  {"no":19,"section":"Mantenimiento","equipment":"Papel secado","activity":"Rellenar","frequency":"—","everyN":1,"startWeek":1,"lead":"K","mode":"Alterna","product":null,"note":"Supuesto: semanal (igual que pisetas)","grid":["K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M"]},
+  {"no":20,"section":"Mantenimiento","equipment":"Refrigeradora","activity":"Limpieza","frequency":"Semestral","everyN":26,"startWeek":16,"lead":"K","mode":"Alterna","product":null,"note":"1 vez en el periodo, antes de vacaciones de fin de año","grid":["","","","","","","","","","","","","","","","K","","","","","","","","","",""]},
+  {"no":21,"section":"Mantenimiento","equipment":"Impresora 3D","activity":"Mantenimiento","frequency":"Mensual","everyN":4,"startWeek":4,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["","","","M","","","","K","","","","M","","","","K","","","","M","","","","K","",""]},
+  {"no":22,"section":"Mantenimiento","equipment":"Viscosímetro","activity":"Limpieza","frequency":"—","everyN":4,"startWeek":2,"lead":"K","mode":"Alterna","product":null,"note":"Supuesto: actividad y frecuencia no definidas; mensual","grid":["","K","","","","M","","","","K","","","","M","","","","K","","","","M","","","","K"]},
+  {"no":23,"section":"Mantenimiento","equipment":"Sputtering","activity":"Cambio aceite bomba","frequency":"Anual","everyN":52,"startWeek":20,"lead":"M/K","mode":"Conjunto","product":"Registro","note":"Bomba: en conjunto. Anual: programado una vez en el periodo (enero)","grid":["","","","","","","","","","","","","","","","","","","","M/K","","","","","",""]},
+  {"no":24,"section":"Mantenimiento","equipment":"FT-IR","activity":"Limpieza","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K"]},
+  {"no":25,"section":"Mantenimiento","equipment":"FT-IR","activity":"Verificación","frequency":"Bi-mensual","everyN":8,"startWeek":8,"lead":"M","mode":"Alterna","product":"Registro","note":"Interpretado como cada 2 meses; sin responsable en el original","grid":["","","","","","","","M","","","","","","","","K","","","","","","","","M","",""]},
+  {"no":26,"section":"Mantenimiento","equipment":"UV-Vis","activity":"Limpieza","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M"]},
+  {"no":27,"section":"Mantenimiento","equipment":"DLS","activity":"Limpieza","frequency":"—","everyN":4,"startWeek":1,"lead":"M","mode":"Alterna","product":null,"note":"Supuesto: mensual","grid":["M","","","","K","","","","M","","","","K","","","","M","","","","K","","","","M",""]},
+  {"no":28,"section":"Mantenimiento","equipment":"Fluorescencia","activity":"Limpieza","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M"]},
+  {"no":29,"section":"Mantenimiento","equipment":"AFM","activity":"Limpieza","frequency":"Bi-mensual","everyN":8,"startWeek":3,"lead":"M","mode":"Alterna","product":null,"note":"Interpretado como cada 2 meses","grid":["","","M","","","","","","","","K","","","","","","","","M","","","","","","",""]},
+  {"no":30,"section":"Mantenimiento","equipment":"STM","activity":"Limpieza","frequency":"Bi-mensual","everyN":8,"startWeek":7,"lead":"K","mode":"Alterna","product":null,"note":"Interpretado como cada 2 meses","grid":["","","","","","","K","","","","","","","","M","","","","","","","","K","","",""]},
+  {"no":31,"section":"Mantenimiento","equipment":"Cortadora láser CO2","activity":"Cambio de agua","frequency":"Mensual","everyN":4,"startWeek":1,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["K","","","","M","","","","K","","","","M","","","","K","","","","M","","","","K",""]},
+  {"no":32,"section":"Mantenimiento","equipment":"Cortadora láser CO2","activity":"Limpieza lentes","frequency":"Mensual","everyN":4,"startWeek":4,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["","","","K","","","","M","","","","K","","","","M","","","","K","","","","M","",""]},
+  {"no":33,"section":"Mantenimiento","equipment":"Ángulo de contacto","activity":"Limpieza","frequency":"Mensual","everyN":4,"startWeek":2,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["","K","","","","M","","","","K","","","","M","","","","K","","","","M","","","","K"]},
+  {"no":34,"section":"Mantenimiento","equipment":"Cortadora visible","activity":"Limpieza lentes","frequency":"Quincenal","everyN":2,"startWeek":1,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M",""]},
+  {"no":35,"section":"Mantenimiento","equipment":"Cortadora visible","activity":"Limpieza","frequency":"Quincenal","everyN":2,"startWeek":2,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["","K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K","","M","","K"]},
+  {"no":36,"section":"Mantenimiento","equipment":"Electrohilado","activity":"Limpieza","frequency":"Mensual","everyN":4,"startWeek":4,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["","","","K","","","","M","","","","K","","","","M","","","","K","","","","M","",""]},
+  {"no":37,"section":"Mantenimiento","equipment":"Impedancia","activity":"Por definir","frequency":"—","everyN":null,"startWeek":null,"lead":"Por definir","mode":"Por definir","product":null,"note":"Sin actividad ni responsable en el original","grid":["","","","","","","","","","","","","","","","","","","","","","","","","",""]},
+  {"no":38,"section":"Mantenimiento","equipment":"Cuatro puntas","activity":"Limpieza","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K"]},
+  {"no":39,"section":"Mantenimiento","equipment":"Van der Pauw","activity":"Limpieza","frequency":"—","everyN":1,"startWeek":1,"lead":"K","mode":"Alterna","product":null,"note":"Supuesto: semanal (igual que cuatro puntas)","grid":["K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M"]},
+  {"no":40,"section":"Mantenimiento","equipment":"Desecador","activity":"Cambio de sílica gel","frequency":"Trimestral","everyN":13,"startWeek":2,"lead":"K","mode":"Alterna","product":null,"note":null,"grid":["","K","","","","","","","","","","","","","M","","","","","","","","","","",""]},
+  {"no":41,"section":"Mantenimiento","equipment":"Deshumidificador","activity":"Por definir","frequency":"—","everyN":null,"startWeek":null,"lead":"Por definir","mode":"Por definir","product":null,"note":"Sin actividad ni responsable en el original","grid":["","","","","","","","","","","","","","","","","","","","","","","","","",""]},
+  {"no":42,"section":"Mantenimiento","equipment":"eLab","activity":"Mantenimiento de usuarios","frequency":"—","everyN":4,"startWeek":1,"lead":"M/K","mode":"Conjunto","product":null,"note":"En conjunto. Supuesto: mensual","grid":["M/K","","","","M/K","","","","M/K","","","","M/K","","","","M/K","","","","M/K","","","","M/K",""]},
+  {"no":43,"section":"Mantenimiento","equipment":"Puerta de acceso","activity":"Mantenimiento de usuarios","frequency":"—","everyN":4,"startWeek":3,"lead":"M/K","mode":"Conjunto","product":null,"note":"En conjunto. Supuesto: mensual","grid":["","","M/K","","","","M/K","","","","M/K","","","","M/K","","","","M/K","","","","M/K","","",""]},
+  {"no":44,"section":"Mantenimiento","equipment":"Redes sociales","activity":"Contenido web / Instagram / Facebook","frequency":"—","everyN":2,"startWeek":1,"lead":"M/K","mode":"Conjunto","product":null,"note":"En conjunto. Supuesto: quincenal","grid":["M/K","","M/K","","M/K","","M/K","","M/K","","M/K","","M/K","","M/K","","M/K","","M/K","","M/K","","M/K","","M/K",""]},
+  {"no":45,"section":"Arreglo laboratorio","equipment":"Laboratorio","activity":"Arreglo y orden general","frequency":"Semanal","everyN":1,"startWeek":1,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K"]},
+  {"no":46,"section":"Atención a usuarios","equipment":"Usuarios","activity":"Turno: atención y medición de muestras","frequency":"Continuo","everyN":1,"startWeek":1,"lead":"K","mode":"Alterna","product":null,"note":"Turno semanal rotativo","grid":["K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M","K","M"]},
+  {"no":47,"section":"Atención a usuarios","equipment":"Usuarios","activity":"Capacitación de usuarios","frequency":"Según demanda","everyN":null,"startWeek":null,"lead":"M/K","mode":"Según demanda","product":null,"note":"La cubre quien esté de turno; Myriam apoya capacitación a estudiantes","grid":["","","","","","","","","","","","","","","","","","","","","","","","","",""]},
+  {"no":48,"section":"Investigación","equipment":"TiO2/CQDs","activity":"Investigación","frequency":"Continuo","everyN":1,"startWeek":1,"lead":"M","mode":"Fijo","product":null,"note":"Supuesto: proyecto fijo (no se alterna para mantener continuidad)","grid":["M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M"]},
+  {"no":49,"section":"Investigación","equipment":"Modificación grafeno","activity":"Dopaje con NP-Ag, cobertura 60%","frequency":"Continuo","everyN":1,"startWeek":1,"lead":"K","mode":"Fijo","product":null,"note":"Supuesto: proyecto fijo (no se alterna para mantener continuidad)","grid":["K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K","K"]},
+  {"no":50,"section":"Administración","equipment":"Caja chica","activity":"Reposición / liquidación","frequency":"—","everyN":4,"startWeek":4,"lead":"K","mode":"Fijo","product":null,"note":"Fijo: Kevin (compras; Myriam sin certificado SERCOP). Supuesto: mensual","grid":["","","","K","","","","K","","","","K","","","","K","","","","K","","","","K","",""]},
+  {"no":51,"section":"Administración","equipment":"Suministros","activity":"Requerimientos / compras","frequency":"—","everyN":4,"startWeek":2,"lead":"K","mode":"Fijo","product":null,"note":"Fijo: Kevin (compras públicas). Supuesto: mensual","grid":["","K","","","","K","","","","K","","","","K","","","","K","","","","K","","","","K"]},
+  {"no":52,"section":"Administración","equipment":"SETED","activity":"Reporte","frequency":"—","everyN":4,"startWeek":1,"lead":"K","mode":"Fijo","product":"Registro","note":"Fijo: Kevin (asignado en el original). Supuesto: mensual","grid":["K","","","","K","","","","K","","","","K","","","","K","","","","K","","","","K",""]},
+  {"no":53,"section":"Administración","equipment":"Desechos","activity":"Gestión y entrega","frequency":"—","everyN":4,"startWeek":3,"lead":"K","mode":"Fijo","product":"Registro","note":"Fijo: Kevin (asignado en el original). Supuesto: mensual","grid":["","","K","","","","K","","","","K","","","","K","","","","K","","","","K","","",""]},
+  {"no":54,"section":"Administración","equipment":"Inventario reactivos","activity":"Actualización","frequency":"—","everyN":13,"startWeek":2,"lead":"M","mode":"Alterna","product":"Registro","note":"Supuesto: trimestral","grid":["","M","","","","","","","","","","","","","K","","","","","","","","","","",""]},
+  {"no":55,"section":"Administración","equipment":"Inventario gases","activity":"Actualización","frequency":"—","everyN":13,"startWeek":3,"lead":"K","mode":"Alterna","product":"Registro","note":"Supuesto: trimestral","grid":["","","K","","","","","","","","","","","","","M","","","","","","","","","",""]},
+  {"no":56,"section":"Administración","equipment":"Inventario vidrio","activity":"Actualización","frequency":"—","everyN":13,"startWeek":11,"lead":"M","mode":"Alterna","product":"Registro","note":"Supuesto: trimestral","grid":["","","","","","","","","","","M","","","","","","","","","","","","","K","",""]},
+  {"no":57,"section":"Administración","equipment":"Vidrio","activity":"Limpieza y desinfección","frequency":"Mensual","everyN":4,"startWeek":4,"lead":"M","mode":"Alterna","product":null,"note":null,"grid":["","","","M","","","","K","","","","M","","","","K","","","","M","","","","K","",""]},
+  {"no":58,"section":"Capacitación","equipment":"Capacitación","activity":"Capacitación del personal","frequency":"—","everyN":null,"startWeek":null,"lead":"Por definir","mode":"Por definir","product":null,"note":"Sin detalle en el original","grid":["","","","","","","","","","","","","","","","","","","","","","","","","",""]}
+ ]
+}
